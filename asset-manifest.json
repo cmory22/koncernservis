@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/koncernservis/static/css/main.e34e8d45.chunk.css",
+    "main.js": "/koncernservis/static/js/main.57f17326.chunk.js",
+    "main.js.map": "/koncernservis/static/js/main.57f17326.chunk.js.map",
+    "runtime-main.js": "/koncernservis/static/js/runtime-main.6d6d63bb.js",
+    "runtime-main.js.map": "/koncernservis/static/js/runtime-main.6d6d63bb.js.map",
+    "static/js/2.b9ba54b8.chunk.js": "/koncernservis/static/js/2.b9ba54b8.chunk.js",
+    "static/js/2.b9ba54b8.chunk.js.map": "/koncernservis/static/js/2.b9ba54b8.chunk.js.map",
+    "static/js/3.91d99a9b.chunk.js": "/koncernservis/static/js/3.91d99a9b.chunk.js",
+    "static/js/3.91d99a9b.chunk.js.map": "/koncernservis/static/js/3.91d99a9b.chunk.js.map",
+    "index.html": "/koncernservis/index.html",
+    "static/css/main.e34e8d45.chunk.css.map": "/koncernservis/static/css/main.e34e8d45.chunk.css.map",
+    "static/js/2.b9ba54b8.chunk.js.LICENSE.txt": "/koncernservis/static/js/2.b9ba54b8.chunk.js.LICENSE.txt",
+    "static/media/asist.773eab51.png": "/koncernservis/static/media/asist.773eab51.png",
+    "static/media/audi.1247d60a.png": "/koncernservis/static/media/audi.1247d60a.png",
+    "static/media/car.69d4f93e.png": "/koncernservis/static/media/car.69d4f93e.png",
+    "static/media/computer.86e0531f.png": "/koncernservis/static/media/computer.86e0531f.png",
+    "static/media/engine.cc96726f.png": "/koncernservis/static/media/engine.cc96726f.png",
+    "static/media/golf.cdb8739f.png": "/koncernservis/static/media/golf.cdb8739f.png",
+    "static/media/kup.b39a8dcd.png": "/koncernservis/static/media/kup.b39a8dcd.png",
+    "static/media/service.e6d04e86.png": "/koncernservis/static/media/service.e6d04e86.png",
+    "static/media/skoda.9bc7f6c3.png": "/koncernservis/static/media/skoda.9bc7f6c3.png",
+    "static/media/stk.c3002541.png": "/koncernservis/static/media/stk.c3002541.png",
+    "static/media/turbo.a5936493.png": "/koncernservis/static/media/turbo.a5936493.png",
+    "static/media/vw.9541b4f6.png": "/koncernservis/static/media/vw.9541b4f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6d63bb.js",
+    "static/js/2.b9ba54b8.chunk.js",
+    "static/css/main.e34e8d45.chunk.css",
+    "static/js/main.57f17326.chunk.js"
+  ]
+}
